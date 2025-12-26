@@ -15,19 +15,28 @@ __________________________
 ## 🚀 Features
 
 • One-to-One real-time chat
+
 • Client-server based GUI
+
 • Message timestamps
+
 • Real-time message transmission
+
 • Multithreaded server
+
 • Beginner-friendly Java Project
 ___________________________
 
 ## ⚒️ Technologies used
 
 • Java
+
 • Java Swing (GUI)
+
 • Java Socket Programming
+
 • Multithreading
+
 • InputStream & OutputStream
 ____________________________
 
